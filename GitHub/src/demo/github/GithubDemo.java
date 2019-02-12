@@ -23,11 +23,6 @@ public class GithubDemo {
 	System.out.println(driver.getTitle());
 	
 	driver.quit();
-	
-		
-		
-		
-		
 		
 		
 	}
